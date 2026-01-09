@@ -6,8 +6,7 @@
 1. **Cloner le dépôt :**
 
 ```bash
-git clone <url-du-dépôt>
-cd <dossier-du-projet>
+git clone https://github.com/mikamttr/tp-scikitlearn
 ```
 
 2. **Créer un environnement virtuel (recommandé) :**
