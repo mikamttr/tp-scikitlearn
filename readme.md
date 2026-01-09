@@ -12,11 +12,11 @@ git clone https://github.com/mikamttr/tp-scikitlearn
 2. **Créer un environnement virtuel (recommandé) :**
 
 ```bash
-python -m venv venv
+py -3.10 -m venv sklearn-env
 # Windows
-venv\Scripts\activate
+sklearn-env\Scripts\activate
 # macOS/Linux
-source venv/bin/activate
+source sklearn-env/bin/activate
 ```
 
 3. **Installer les dépendances :**
