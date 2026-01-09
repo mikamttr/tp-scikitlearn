@@ -1,5 +1,5 @@
-> [!NOTE]  
-> Requires Python 3.10
+> [!CAUTION]  
+> Nécessite Python 3.10
 
 # Installation
 
@@ -9,7 +9,7 @@
 git clone https://github.com/mikamttr/tp-scikitlearn
 ```
 
-2. **Créer un environnement virtuel (recommandé) :**
+2. **Créer un environnement virtuel :**
 
 ```bash
 py -3.10 -m venv sklearn-env
